@@ -1,4 +1,4 @@
-#Projecct Name
+#Projecct Name:
 TicTacToe
 #Features
 + java
