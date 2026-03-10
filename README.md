@@ -1,8 +1,8 @@
 # projecct Name:
 TicTacToe
 ## Features
-+ java
-+ vscode
++ The game board updates after every move, showing the current state clearly
++ Automatically checks rows, columns, and diagonals for a winner. Declares a tie if the board is full
 ## How to use
 + Enter column number
 + Choose the row
