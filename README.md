@@ -1,9 +1,9 @@
 #Projecct Name
 TicTacToe
-##Features
+#Features
 + java
 + vscode
-##How to use
+  How to use
 + Enter column number
 + Choose the row
 + Then again repeat same process until game finish
